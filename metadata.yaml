@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '25960'
     url: http://www.gutenberg.org/2009/agents/25960
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/23649#The-Sugar-Plumbor-Golden-Fairing
 gutenberg_issued: '2007-11-28'
 gutenberg_type: Text
 identifiers:
