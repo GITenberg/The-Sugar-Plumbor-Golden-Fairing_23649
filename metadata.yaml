@@ -1,0 +1,26 @@
+_repo: The-Sugar-Plumbor-Golden-Fairing_23649
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Two-Shoes, Margery
+    gutenberg_agent_id: '25960'
+    url: http://www.gutenberg.org/2009/agents/25960
+description: ''
+gutenberg_issued: '2007-11-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '23649'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Alphabet books'
+- !lcc 'PZ'
+title: 'The Sugar-Plumb
+
+  or, Golden Fairing'
+url: http://www.gutenberg.org/ebooks/23649
